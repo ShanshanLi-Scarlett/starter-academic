@@ -38,4 +38,4 @@ highlight_name: false
 title: Shanshan Li (Scarlett)
 email: ""
 ---
-I am a research assistant at the software institute of Nanjing University. My research interests include Software architecture, Microservices Architecture, Blockchain-Based Supply Chain,  and Evidence-Based Software Engineering (EBSE).
+I am a research assistant at the software institute of Nanjing University. My research interests include Software architecture, Microservices Architecture, Blockchain-based Supply Chain,  and Evidence-Based Software Engineering (EBSE). I have published many papers in leading journals, such as IST, JSS, and Journal of Software, as well as authoritative international conferences, such as EASE, APSEC, and ICSA, among which the paper accepted by APSEC 2016 won the Best Paper Award.
