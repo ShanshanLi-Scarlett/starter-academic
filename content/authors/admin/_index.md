@@ -27,18 +27,18 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: Nanjing University
-    url: https://www.stanford.edu/
+    url: https://www.nju.edu.cn
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Software Engineering
+      institution: Nanjing University
+      year: ""
+    - course: "MEng in Computer Science and Technology "
+      institution: China University of Petroleum
+      year: ""
+    - course: BSc in Software Engineering
+      institution: China University of Petroleum
+      year: ""
 superuser: true
 highlight_name: false
 title: Shanshan Li
