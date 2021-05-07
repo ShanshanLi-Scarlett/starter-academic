@@ -35,7 +35,7 @@ education:
       year: ""
 superuser: true
 highlight_name: false
-title: Shanshan Li
+title: Shanshan Li (Scarlett)
 email: ""
 ---
 I am a research assistant at the software institute of Nanjing University. My research interests include Software architecture, Microservices Architecture, Blockchain-Based Supply Chain,  and Evidence-Based Software Engineering (EBSE).
