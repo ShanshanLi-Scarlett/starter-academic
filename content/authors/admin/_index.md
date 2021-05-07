@@ -1,12 +1,14 @@
 ---
-role: Professor of Artificial Intelligence
+role: Research Assistant
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Software architecture, Microservices
+  Architecture, Blockchain-Based Supply Chain,  and Evidence-Based Software
+  Engineering (EBSE).
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software architecture
+  - Microservices Architecture
+  - Blockchain-Based Supply Chain
+  - Evidence-Based Software Engineering (EBSE)
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,12 +41,9 @@ education:
       year: 2008
 superuser: true
 highlight_name: false
-title: Nelson Bighetti
+title: Shanshan Li
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a research assistant at the software institute of Nanjing University. My research interests include Software architecture, Microservices Architecture, Blockchain-Based Supply Chain,  and Evidence-Based Software Engineering (EBSE).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
